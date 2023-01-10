@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m a Computer Science Student.
-- 🌱 I’m currently learning Python Programming.
+- 🌱 I’m currently pursuing frontend developer course.
 - 💬 Ask me about Photography.
 - 📫 How to reach me: @anoop_chendake07
 - ⚡ Fun fact: I Love to travel.
